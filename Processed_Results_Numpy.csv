@@ -1,0 +1,991 @@
+Product_Name,Total_Inventory_Value,Best_Selling_Mark,Discounted_Revenue
+Sushi Rice,99.0,False,129.6
+Arabica Coffee,900.0,False,1530.0
+Black Rice,180.0,False,167.4
+Long Grain Rice,18.0,False,128.25
+Plum,148.0,False,223.2
+All-Purpose Flour,96.25,False,53.55
+Corn Oil,240.0,False,150.75
+Egg (Goose),110.0,False,47.25
+Greek Yogurt,273.0,False,151.2
+Egg (Duck),43.0,False,24.3
+Long Grain Rice,99.2,True,144.0
+White Sugar,182.0,False,180.0
+Rye Bread,78.0,False,126.9
+Plum,380.0,False,248.4
+Strawberries,324.0,False,340.2
+Feta Cheese,658.0,False,126.0
+Bread Flour,40.5,False,89.1
+Swiss Cheese,392.0,False,561.6
+Arabica Coffee,1100.0,False,828.0
+White Sugar,130.0,False,52.2
+Spinach,180.0,False,184.5
+Trout,588.0,False,561.6
+Green Beans,162.0,False,36.0
+Cabbage,88.0,False,65.7
+Parmesan Cheese,756.0,False,637.2
+Raw Sugar,46.5,False,62.1
+Egg (Quail),77.6,False,69.84
+Mushrooms,432.0,False,507.6
+Oatmeal Biscuit,80.0,False,225.0
+Pear,346.5,False,247.05
+Cucumber,33.25,False,48.82
+Pineapple,63.0,False,132.3
+Olive Oil,282.0,False,226.8
+Herbal Tea,2310.0,False,675.0
+Haddock,414.0,False,526.5
+Onion,78.0,False,108.0
+Sushi Rice,337.5,False,174.15
+Pineapple,165.6,False,158.36
+Zucchini,152.5,False,177.75
+Short Grain Rice,180.0,False,126.9
+Mango,120.0,False,175.5
+Lemon,27.6,False,136.62
+Black Coffee,1260.0,False,337.5
+Butter,153.0,False,108.0
+Multigrain Bread,227.5,False,100.8
+Long Grain Rice,100.5,False,89.1
+Bread Flour,21.0,False,49.95
+Kiwi,270.0,False,237.6
+Mango,460.0,False,108.0
+Sourdough Bread,164.0,False,151.2
+Short Grain Rice,184.5,False,153.9
+Orange,255.0,False,256.5
+Pineapple,149.6,False,293.76
+White Bread,230.0,False,137.25
+Green Coffee,744.0,False,378.0
+Zucchini,65.0,False,128.25
+Sourdough Bread,265.5,False,129.6
+Orange,255.2,False,164.43
+Sardines,546.0,False,162.0
+Olive Oil,168.0,False,205.2
+Carrot,76.5,False,59.4
+Black Tea,230.0,False,288.0
+Pear,364.9,False,120.15
+Olive Oil,600.0,False,453.6
+Ricotta Cheese,306.0,False,291.6
+Black Coffee,915.0,False,904.5
+White Tea,2475.0,False,2092.5
+Cucumber,23.4,False,71.28
+Mozzarella Cheese,315.0,False,522.9
+Broccoli,292.0,False,169.2
+Eggplant,117.0,False,137.7
+Trout,348.0,False,918.0
+Heavy Cream,48.0,False,72.0
+Bell Pepper,427.2,False,296.37
+Onion,70.0,False,136.8
+Sardines,534.0,False,324.0
+Mango,270.0,False,105.3
+Arborio Rice,90.0,False,202.5
+Potato,33.6,False,32.4
+Corn Oil,50.0,False,193.5
+Butter Biscuit,228.0,False,361.8
+Peas,297.0,False,135.0
+Cream,230.0,False,162.0
+Spinach,98.4,False,127.44
+Sardines,264.0,False,486.0
+White Sugar,94.0,False,52.2
+Bread Flour,31.5,False,51.3
+Cucumber,153.0,False,103.68
+Swiss Cheese,232.0,False,424.8
+Peanut Oil,256.0,False,183.6
+Blueberries,660.0,False,216.0
+Chocolate Biscuit,375.0,False,310.5
+Cheese,477.0,False,453.6
+Palm Oil,77.4,False,53.46
+Eggplant,222.0,False,221.4
+Garlic,189.0,False,573.3
+Jasmine Rice,432.25,False,218.02
+Rice Flour,104.0,False,171.0
+Zucchini,107.5,False,148.5
+Multigrain Bread,179.2,False,192.96
+Ricotta Cheese,396.0,False,232.2
+Bread Flour,126.0,False,124.2
+Cottage Cheese,185.0,False,306.0
+Whipped Cream,116.0,False,216.0
+Almond Flour,123.5,False,205.2
+Lemon,157.5,False,126.0
+Tilapia,665.0,False,384.3
+Lettuce,116.0,False,95.4
+Peanut Oil,228.0,False,201.6
+Sardines,198.0,False,529.2
+Arabica Coffee,1240.0,False,414.0
+Coconut,445.0,False,171.0
+Cod,184.0,False,453.6
+Banana,5512.08,False,3100.54
+Black Rice,524.6,False,439.2
+Pomegranate,360.0,False,518.4
+Pineapple,245.0,False,138.6
+Peach,188.0,False,334.8
+Arborio Rice,427.5,False,243.0
+Plum,77.0,False,211.36
+Sushi Rice,81.7,False,224.46
+Arabica Coffee,1554.0,False,1568.7
+Pear,274.5,False,97.2
+Sourdough Bread,136.0,False,100.8
+Pear,130.5,False,125.55
+Heavy Cream,58.8,False,105.84
+White Rice,36.0,False,100.44
+Cauliflower,128.0,False,60.48
+Canola Oil,209.3,False,89.01
+Avocado Oil,990.0,False,846.0
+Bread Flour,51.0,False,66.15
+Gouda Cheese,700.0,False,126.0
+Black Rice,474.0,False,140.4
+Greek Yogurt,186.0,False,135.0
+Tuna,450.0,False,583.2
+Buttermilk,117.5,False,108.0
+Orange,45.0,False,151.2
+Pomegranate,114.0,False,318.6
+Tuna,1044.0,False,405.0
+Sour Cream,44.0,False,302.4
+Rice Flour,198.0,False,64.8
+Long Grain Rice,39.0,False,102.6
+Bell Pepper,315.0,False,93.15
+Bell Pepper,225.0,False,279.45
+Pineapple,192.5,False,255.15
+Cod,248.0,False,295.2
+Green Tea,504.0,False,669.6
+Sardines,438.0,False,118.8
+Sourdough Bread,48.0,False,270.0
+Short Grain Rice,159.0,False,118.8
+Powdered Sugar,170.0,False,155.25
+Swiss Cheese,648.0,False,393.66
+Tuna,1656.0,False,648.0
+Cucumber,55.8,False,147.42
+Eggplant,93.0,False,124.2
+Garlic,532.0,False,327.6
+Vegetable Oil,114.0,False,160.2
+Whipped Cream,368.0,False,154.8
+Cheddar Cheese,792.0,False,639.9
+Coconut,495.0,False,184.5
+Egg (Turkey),110.0,False,114.75
+Herbal Tea,1488.0,False,1953.0
+Sesame Oil,175.5,False,169.65
+Black Rice,209.1,False,498.15
+Orange,123.0,False,237.6
+Black Tea,280.0,False,234.0
+Asparagus,110.0,False,441.0
+Palm Oil,72.0,False,115.02
+Swiss Cheese,400.0,False,302.4
+Mango,427.2,False,198.72
+Egg (Turkey),190.0,False,155.25
+Whole Wheat Flour,184.25,False,74.25
+Robusta Coffee,620.0,False,558.0
+Watermelon,225.0,False,243.0
+Green Coffee,937.5,False,371.25
+Cream,72.5,False,144.0
+Oatmeal Biscuit,170.0,False,346.5
+Green Tea,120.0,False,432.0
+Anchovies,880.0,False,882.0
+Cheddar Cheese,360.0,False,324.0
+Avocado Oil,100.0,False,216.0
+Arabica Coffee,441.0,False,378.0
+Trout,900.0,False,961.2
+Cod,448.0,False,712.8
+Rye Bread,207.0,False,264.6
+Basmati Rice,252.0,False,279.45
+White Sugar,48.0,False,36.0
+Sourdough Bread,135.0,False,129.6
+White Tea,900.0,False,787.5
+White Bread,232.5,False,171.0
+Mozzarella Cheese,672.0,False,453.6
+Peanut Oil,240.0,False,338.4
+Gouda Cheese,679.0,False,270.9
+Chocolate Biscuit,55.0,False,396.0
+Pomegranate,84.0,False,464.4
+Sunflower Oil,220.0,False,56.25
+Jasmine Rice,114.0,False,149.62
+Haddock,837.0,False,631.8
+Black Rice,408.0,False,199.8
+Rye Bread,78.4,False,78.12
+Lime,42.0,False,77.4
+Pomegranate,552.0,False,172.8
+Robusta Coffee,680.0,False,351.0
+Multigrain Bread,161.0,False,214.2
+Cucumber,82.25,False,77.18
+Olive Oil,312.0,False,540.0
+Mushrooms,306.0,False,280.8
+Egg (Goose),35.0,False,132.75
+Greek Yogurt,3172.54,False,4236.88
+Peach,160.0,False,252.0
+White Tea,1275.0,False,665.55
+Sushi Rice,327.25,False,160.65
+Strawberries,182.9,False,244.26
+Mushrooms,227.5,False,514.8
+Broccoli,124.0,False,248.4
+White Bread,140.0,False,126.0
+Greek Yogurt,270.0,False,189.0
+Canola Oil,181.7,False,190.44
+Lime,58.0,False,145.8
+Canola Oil,105.8,False,97.29
+Blueberries,420.0,False,333.0
+Mozzarella Cheese,115.2,False,362.88
+Tuna,1602.0,False,1231.2
+White Tea,500.0,False,1642.5
+Black Coffee,555.0,False,1269.0
+Bread Flour,145.5,False,47.25
+Feta Cheese,686.0,False,579.6
+Kiwi,222.0,False,253.8
+Digestive Biscuit,388.0,False,205.2
+Arabica Coffee,1940.0,False,1332.0
+Lemon,225.0,False,159.75
+Arabica Coffee,920.0,False,1062.0
+Broccoli,160.0,False,309.6
+Kale,308.0,False,172.8
+Bread Flour,93.0,False,43.2
+Herbal Tea,1770.0,False,1863.0
+Blueberries,230.0,False,360.0
+Digestive Biscuit,156.0,False,352.8
+Gouda Cheese,476.0,False,333.9
+Almond Flour,712.5,False,367.65
+Chocolate Biscuit,480.0,False,202.5
+Haddock,153.0,False,810.0
+Egg (Duck),23.0,False,75.6
+Peach,60.0,False,133.2
+Mackerel,532.5,False,351.0
+Egg (Goose),242.5,False,74.25
+Zucchini,72.5,False,119.25
+Bell Pepper,211.6,False,397.44
+Cheese,722.0,False,513.0
+Zucchini,147.5,False,121.5
+Orange,285.2,False,220.41
+Kiwi,168.0,False,378.0
+Coconut,95.0,False,432.0
+Butter,255.0,False,121.5
+Bread Flour,85.5,False,71.55
+Broccoli,380.0,False,187.2
+Sushi Rice,378.0,False,157.95
+Rice Flour,62.0,False,68.4
+Pear,184.5,False,230.85
+Feta Cheese,679.0,False,598.5
+Milk,43.0,False,75.6
+Palm Oil,133.2,False,50.22
+Bread Flour,105.0,False,36.45
+Cheese,634.8,False,231.84
+Carrot,100.5,False,90.45
+Short Grain Rice,54.0,False,164.7
+Arabica Coffee,462.0,False,567.0
+Grapes,484.0,False,460.35
+Tilapia,546.0,False,396.9
+Olive Oil,498.0,False,253.8
+Robusta Coffee,441.0,False,321.3
+Peas,147.0,False,221.4
+Brown Rice,42.5,False,101.25
+Buttermilk,124.8,False,45.36
+Mushrooms,474.0,False,297.0
+Palm Oil,63.0,False,100.44
+Cucumber,136.8,False,35.64
+Swiss Cheese,744.0,False,669.6
+Halibut,800.0,False,702.0
+Trout,218.5,False,993.6
+Vegetable Oil,140.0,False,180.0
+Digestive Biscuit,360.0,False,226.8
+Digestive Biscuit,308.0,False,223.2
+Apricot,190.0,False,148.5
+Tilapia,651.0,False,453.6
+Evaporated Milk,46.0,False,113.4
+Green Tea,387.6,False,656.64
+Heavy Cream,228.0,False,82.8
+Papaya,265.5,False,255.15
+Blueberries,890.0,False,711.0
+Blueberries,530.0,False,495.0
+Plum,42.9,False,140.4
+Yogurt,103.25,False,144.9
+Onion,68.0,False,162.0
+Tuna,450.0,False,502.2
+Anchovies,810.0,False,855.0
+Apple,283.5,False,132.3
+Watermelon,213.0,False,218.7
+Cauliflower,130.0,False,126.0
+Greek Yogurt,78.0,False,67.5
+Haddock,756.0,False,486.0
+Blueberries,280.0,False,432.0
+Strawberries,564.0,False,216.0
+Kiwi,282.0,False,378.0
+Coconut Sugar,100.0,False,319.5
+Tomato,210.0,False,193.5
+Cheese,900.0,False,712.8
+Milk,74.0,False,21.6
+Green Coffee,324.0,False,950.4
+Eggplant,273.0,False,113.4
+Grapes,451.0,False,193.05
+Bread Flour,126.0,False,112.05
+Halibut,360.0,False,1026.0
+Sourdough Bread,54.0,False,303.75
+Black Rice,552.5,False,555.75
+Butter Biscuit,198.0,False,108.0
+Tilapia,413.0,False,359.1
+Grapes,121.0,False,168.3
+Gouda Cheese,469.0,False,459.9
+Cheese,702.0,False,486.0
+Lemon,176.4,False,55.13
+Heavy Cream,252.0,False,75.6
+White Bread,75.0,False,218.25
+Arabica Coffee,720.0,False,1638.0
+Grapes,484.0,False,282.15
+Banana,5112.9,False,4214.11
+Broccoli,120.0,False,219.6
+Green Beans,62.0,False,127.8
+Cod,128.0,False,583.2
+White Sugar,28.0,False,70.2
+Tomato,110.0,False,184.5
+Long Grain Rice,103.5,False,45.9
+Long Grain Rice,106.5,False,89.1
+Carrot,147.2,False,43.2
+Peanut Oil,196.0,False,162.0
+Pomegranate,312.0,False,205.2
+Egg (Turkey),140.0,False,184.5
+Strawberries,97.6,False,274.5
+Zucchini,130.0,False,81.0
+Trout,1046.5,False,838.35
+Mango,272.6,False,359.55
+Halibut,940.0,False,1098.0
+Rye Bread,150.0,False,189.0
+Sour Cream,172.0,False,212.4
+Cheddar Cheese,605.2,False,632.79
+Egg (Turkey),47.5,False,148.5
+Swiss Cheese,560.0,False,511.2
+Eggplant,291.0,False,78.3
+Sunflower Oil,217.5,False,186.75
+White Tea,1450.0,False,1912.5
+Coconut,80.0,False,94.5
+Pineapple,227.5,False,78.75
+Basmati Rice,67.5,False,275.4
+Bell Pepper,337.5,False,105.3
+Vanilla Biscuit,440.0,False,311.85
+Orange,239.4,False,123.12
+Eggplant,51.0,False,132.3
+Evaporated Milk,121.6,False,145.35
+Whipped Cream,304.0,False,234.0
+Sesame Oil,500.5,False,169.65
+Cream,45.0,False,175.5
+Coconut Sugar,255.0,False,94.5
+Asparagus,340.0,False,378.0
+Wild Rice,460.0,False,567.0
+Long Grain Rice,147.0,False,40.5
+Onion,100.0,False,54.0
+Salmon,1320.0,False,823.5
+Potato,31.2,False,69.12
+Green Coffee,516.0,False,950.4
+Powdered Sugar,115.0,False,121.5
+Cauliflower,46.55,False,154.35
+Kale,244.0,False,273.6
+Garlic,301.0,False,598.5
+Green Tea,680.0,False,619.65
+Green Tea,272.0,False,698.4
+Green Tea,704.0,False,561.6
+Cottage Cheese,445.0,False,423.0
+Wild Rice,260.0,False,360.0
+Pear,117.0,False,372.6
+Peach,148.0,False,334.8
+Yogurt,133.0,False,97.65
+Feta Cheese,560.0,False,403.2
+Sweet Potato,200.0,False,176.4
+Butter,65.1,False,178.56
+Coconut Oil,165.0,False,270.0
+Apple,150.5,False,122.85
+Mushrooms,210.8,False,323.64
+Mackerel,615.0,False,445.5
+Whole Wheat Bread,59.5,False,292.95
+Sushi Rice,171.0,False,312.08
+Cod,520.0,False,403.2
+Papaya,202.5,False,141.75
+Egg (Goose),87.5,False,213.75
+Bread Flour,144.0,False,109.35
+Coconut,280.0,False,189.0
+Ricotta Cheese,294.0,False,205.2
+Raw Sugar,150.0,False,102.6
+Haddock,270.0,False,801.9
+Papaya,90.0,False,141.75
+Sesame Oil,552.5,False,269.1
+Green Beans,180.6,False,185.22
+Sourdough Bread,260.0,False,360.0
+Cottage Cheese,335.0,False,157.5
+Ricotta Cheese,528.0,False,124.2
+Robusta Coffee,140.0,False,288.0
+Tilapia,569.5,False,325.62
+Feta Cheese,518.0,False,132.3
+Cheddar Cheese,189.0,False,558.9
+Butter Biscuit,132.0,False,253.8
+Ricotta Cheese,546.0,False,270.0
+Multigrain Bread,297.5,False,94.5
+Peas,36.0,False,124.2
+Pomegranate,258.0,False,421.2
+Yogurt,161.0,False,78.75
+Watermelon,69.0,False,248.4
+Egg (Duck),77.0,False,52.2
+Sweet Potato,130.0,False,127.8
+Banana,1255.42,False,1060.98
+Swiss Cheese,160.0,False,360.0
+Cheddar Cheese,279.0,False,510.3
+Butter,104.4,False,67.86
+Black Tea,295.0,False,202.5
+Long Grain Rice,16.5,False,64.8
+Black Coffee,372.0,False,1116.0
+Haddock,675.0,False,396.9
+Black Coffee,165.0,False,1201.5
+Anchovies,600.0,False,306.0
+Lemon,218.4,False,82.08
+Egg (Goose),107.5,False,108.0
+Bread Flour,37.5,False,41.85
+Parmesan Cheese,1132.8,False,828.36
+Mackerel,225.0,False,540.0
+Arborio Rice,252.0,False,247.05
+Whole Wheat Bread,318.5,False,233.1
+White Sugar,54.0,False,102.6
+Buttermilk,68.6,False,167.58
+Sour Cream,368.0,False,82.8
+Tuna,666.0,False,437.4
+Powdered Sugar,70.0,False,184.5
+Tilapia,210.0,False,302.4
+Arabica Coffee,1960.0,False,702.0
+Lemon,162.5,False,200.25
+Rice Flour,84.0,False,63.0
+Lemon,157.5,False,74.25
+Broccoli,340.0,False,306.0
+Egg (Duck),44.0,False,86.4
+Plum,104.0,False,169.2
+Coconut Sugar,245.0,False,418.5
+Pomegranate,354.0,False,253.8
+Raw Sugar,28.5,False,52.65
+Eggplant,141.0,False,105.3
+Grapes,539.0,False,292.05
+Watermelon,153.0,False,62.1
+Anchovies,1000.0,False,486.0
+Yogurt,93.5,False,94.86
+Whipped Cream,56.0,False,324.0
+Egg (Quail),23.2,False,36.0
+Chocolate Biscuit,500.0,False,211.5
+Ricotta Cheese,294.0,False,378.0
+Vegetable Oil,150.0,False,142.2
+Heavy Cream,336.2,False,254.61
+Cottage Cheese,326.4,False,388.8
+Corn Oil,175.0,False,76.5
+Salmon,735.0,False,1296.0
+Mackerel,667.5,False,324.0
+Cheese,792.0,False,453.6
+Green Tea,312.0,False,201.6
+Cauliflower,217.5,False,105.75
+Oatmeal Biscuit,465.0,False,342.0
+Egg (Turkey),55.2,False,174.96
+Vanilla Biscuit,517.0,False,366.3
+Digestive Biscuit,152.0,False,259.2
+Evaporated Milk,22.0,False,86.4
+White Tea,1518.0,False,979.11
+Avocado Oil,500.0,False,243.0
+Egg (Goose),225.0,False,114.75
+Arborio Rice,387.0,False,89.1
+Cauliflower,215.0,False,67.5
+Almond Flour,513.0,False,513.0
+Watermelon,81.0,False,189.0
+Rye Bread,150.0,False,224.1
+Onion,136.0,False,66.6
+Sourdough Bread,92.4,False,234.36
+Cheese,460.0,False,496.8
+Bell Pepper,114.4,False,289.08
+White Tea,1550.0,False,2002.5
+Broccoli,316.0,False,241.2
+Peach,292.0,False,270.0
+Carrot,26.1,False,57.42
+Kale,316.0,False,288.0
+Arabica Coffee,460.0,False,558.0
+Milk,18.0,False,65.7
+Sunflower Oil,60.0,False,204.75
+Watermelon,159.0,False,64.8
+Yogurt,148.75,False,77.18
+Sesame Oil,97.5,False,286.65
+Anchovies,660.0,False,243.0
+Corn Oil,42.5,False,51.75
+Grapes,71.5,False,207.9
+Digestive Biscuit,136.0,False,280.8
+Swiss Cheese,680.0,False,489.6
+Cabbage,12.0,False,22.5
+Oatmeal Biscuit,410.0,False,94.5
+Sourdough Bread,284.0,False,208.8
+Mozzarella Cheese,406.0,False,390.6
+Rice Flour,30.0,False,162.0
+Pineapple,238.0,False,78.75
+White Sugar,26.0,False,68.4
+Sesame Oil,292.5,False,503.1
+Egg (Goose),98.0,False,167.58
+Black Coffee,961.0,False,474.3
+Peanut Oil,316.0,False,165.6
+Peas,225.0,False,259.2
+Almond Flour,722.0,False,205.2
+Canola Oil,220.8,False,126.27
+Canola Oil,158.7,False,163.53
+Butter,144.0,False,256.5
+Cream,196.8,False,103.68
+Zucchini,107.5,False,49.5
+Green Coffee,1080.0,False,874.8
+Milk,11.7,False,37.26
+Cabbage,62.0,False,30.6
+Coconut Sugar,85.0,False,342.0
+Sesame Oil,650.0,False,450.45
+All-Purpose Flour,94.5,False,121.28
+Whipped Cream,401.8,False,328.41
+Herbal Tea,610.0,False,1262.7
+Haddock,387.0,False,534.6
+Green Coffee,348.0,False,302.4
+Grapes,203.5,False,168.3
+Cheddar Cheese,756.5,False,456.57
+Basmati Rice,114.4,False,213.84
+White Tea,2275.0,False,1417.5
+Ricotta Cheese,310.0,False,491.04
+Trout,1176.0,False,669.6
+Egg (Duck),37.0,False,81.0
+White Bread,195.0,False,200.25
+Cauliflower,122.4,False,119.34
+Arabica Coffee,1480.0,False,1800.0
+Pineapple,63.0,False,277.2
+Cauliflower,235.6,False,205.34
+Egg (Turkey),97.5,False,58.5
+Peas,144.0,False,137.7
+Strawberries,342.2,False,276.12
+Greek Yogurt,117.0,False,126.9
+Papaya,369.6,False,213.84
+Sardines,180.0,False,302.4
+Sesame Oil,91.0,False,298.35
+Powdered Sugar,52.5,False,83.25
+Jasmine Rice,80.75,False,247.95
+Cauliflower,85.0,False,63.0
+Jasmine Rice,266.0,False,303.53
+Plum,249.6,False,210.6
+Grapes,478.5,False,108.9
+Papaya,108.0,False,97.2
+Sushi Rice,197.4,False,120.96
+Digestive Biscuit,244.0,False,262.8
+Rye Bread,134.4,False,68.04
+Chocolate Biscuit,185.0,False,157.5
+Arabica Coffee,900.0,False,648.0
+Bread Flour,130.5,False,78.3
+Almond Flour,351.5,False,324.9
+Robusta Coffee,607.7,False,834.3
+Pomegranate,372.0,False,243.0
+Yogurt,107.1,False,85.68
+Grapes,209.0,False,292.05
+Mackerel,570.0,False,209.25
+Egg (Quail),27.2,False,69.12
+Eggplant,75.0,False,153.9
+Egg (Turkey),215.0,False,76.5
+Oatmeal Biscuit,205.0,False,225.0
+Cauliflower,192.5,False,144.0
+Egg (Duck),41.0,False,27.0
+Orange,129.8,False,111.51
+Avocado Oil,530.0,False,198.0
+Chocolate Biscuit,340.0,False,315.0
+Swiss Cheese,768.0,False,511.2
+Garlic,231.0,False,289.8
+Cauliflower,82.5,False,202.5
+Watermelon,270.0,False,221.4
+Brown Rice,77.5,False,56.25
+Asparagus,460.0,False,279.0
+Cauliflower,165.0,False,191.25
+Anchovies,830.0,False,297.0
+Mango,420.0,False,135.0
+Haddock,684.0,False,421.2
+Pomegranate,156.0,False,442.8
+Green Coffee,762.5,False,1068.75
+Evaporated Milk,28.5,False,121.41
+Apricot,365.0,False,391.5
+Whole Wheat Flour,108.65,False,119.25
+Avocado Oil,140.0,False,585.0
+Mango,495.0,False,234.0
+Asparagus,400.0,False,117.0
+Eggplant,147.0,False,99.9
+Grapes,137.5,False,202.95
+Sesame Oil,253.5,False,315.9
+Orange,272.6,False,148.77
+Sardines,66.0,False,372.6
+Peanut Oil,84.0,False,176.4
+Kiwi,216.6,False,271.89
+Palm Oil,104.4,False,132.84
+Plum,327.25,False,200.97
+Cauliflower,157.5,False,139.5
+Coconut Oil,270.0,False,130.5
+Cherry,240.0,False,302.4
+Cauliflower,142.5,False,175.5
+Vegetable Oil,36.0,False,45.0
+Tuna,288.0,False,567.0
+Buttermilk,97.5,False,103.5
+Lemon,144.55,False,66.15
+Salmon,1185.0,False,567.0
+Egg (Quail),62.4,False,35.28
+Sushi Rice,93.5,False,244.8
+Egg (Chicken),2.0,False,18.0
+Arborio Rice,153.0,False,170.1
+Heavy Cream,296.0,False,234.0
+Sushi Rice,43.0,False,112.23
+Basmati Rice,49.5,False,117.45
+Grapes,544.5,False,292.05
+Swiss Cheese,512.0,False,381.6
+Pear,258.1,False,248.31
+Corn Oil,65.0,False,101.25
+Raw Sugar,108.0,False,52.65
+Mozzarella Cheese,255.6,False,172.53
+Mushrooms,144.0,False,459.0
+Onion,32.0,False,39.6
+Banana,545.61,False,730.28
+Zucchini,222.5,False,60.75
+Cherry,456.0,False,316.8
+Herbal Tea,1830.0,False,2430.0
+Short Grain Rice,168.0,False,251.1
+Cream,49.35,False,184.01
+Grapes,324.5,False,366.3
+Green Coffee,240.0,False,410.4
+Rye Bread,297.0,False,132.3
+Green Tea,192.0,False,352.8
+Sushi Rice,339.3,False,270.14
+Egg (Duck),52.0,False,69.3
+Spinach,110.25,False,55.13
+Apricot,445.0,False,220.5
+Kiwi,365.4,False,104.4
+Black Rice,306.25,False,421.88
+Green Tea,208.0,False,662.4
+Egg (Quail),74.4,False,21.6
+Papaya,348.3,False,89.01
+Heavy Cream,296.0,False,356.4
+Black Tea,95.0,False,324.0
+Short Grain Rice,192.0,False,129.6
+Bell Pepper,220.5,False,210.6
+Parmesan Cheese,1188.0,False,745.2
+Buttermilk,147.0,False,92.61
+Cabbage,81.0,False,42.12
+Haddock,711.0,False,364.5
+Egg (Chicken),4.4,False,5.94
+Brown Rice,127.5,False,119.25
+Arabica Coffee,1300.0,False,504.0
+Whipped Cream,220.0,False,248.4
+White Rice,32.4,False,103.68
+Parmesan Cheese,444.0,False,421.2
+Salmon,1320.0,False,1296.0
+Pineapple,70.0,False,252.0
+Bread Flour,148.5,False,108.0
+Asparagus,220.8,False,254.88
+Wild Rice,190.0,False,558.0
+Yogurt,21.0,False,34.65
+Buttermilk,175.95,False,66.55
+Egg (Duck),63.0,False,20.7
+Asparagus,366.6,False,105.75
+White Bread,180.0,False,195.75
+Wild Rice,580.0,False,675.0
+Egg (Goose),220.0,False,121.5
+White Rice,97.2,False,152.28
+Powdered Sugar,160.0,False,218.25
+Milk,12.0,False,27.9
+Mango,317.2,False,346.32
+Oatmeal Biscuit,140.0,False,126.0
+Spinach,57.5,False,213.75
+Blueberries,870.0,False,495.0
+Robusta Coffee,590.0,False,432.0
+Watermelon,39.0,False,270.0
+Pomegranate,486.0,False,507.6
+White Bread,152.5,False,114.75
+Carrot,120.0,False,109.35
+Brown Rice,97.5,False,173.25
+Cabbage,4591.95,False,2156.22
+Egg (Goose),150.0,False,173.25
+Sour Cream,90.2,False,166.05
+Almond Flour,750.5,False,709.65
+Broccoli,188.0,False,273.6
+Jasmine Rice,95.0,False,333.45
+Gouda Cheese,287.0,False,541.8
+Tilapia,322.0,False,390.6
+Palm Oil,120.6,False,126.36
+Arborio Rice,229.5,False,295.65
+White Sugar,84.0,False,144.0
+Sesame Oil,552.5,False,456.3
+Sunflower Oil,57.5,False,204.75
+Bell Pepper,378.0,False,186.3
+Greek Yogurt,1192.24,False,1839.46
+White Bread,155.0,False,94.5
+Egg (Goose),162.5,False,148.5
+Lime,36.0,False,97.2
+Egg (Chicken),14.0,False,11.16
+Vegetable Oil,46.0,False,113.4
+Jasmine Rice,123.5,False,320.62
+Robusta Coffee,200.0,False,648.0
+Mozzarella Cheese,396.0,False,311.04
+Whole Wheat Flour,225.5,False,64.35
+Salmon,1095.0,False,1201.5
+White Tea,2025.0,False,1665.0
+Onion,40.0,False,91.8
+Black Coffee,1170.0,False,729.0
+Butter Biscuit,504.0,False,275.4
+Corn Oil,80.0,False,117.0
+Coconut Oil,450.0,False,247.5
+Evaporated Milk,140.0,False,43.2
+Bell Pepper,405.0,False,328.05
+Lettuce,200.0,False,46.8
+Brown Rice,222.5,False,144.0
+Whole Wheat Flour,102.6,False,82.62
+Rye Bread,183.0,False,191.7
+Orange,225.0,False,259.2
+Multigrain Bread,278.4,False,210.24
+Bread Flour,106.5,False,45.9
+Haddock,882.0,False,429.3
+Green Beans,38.0,False,91.8
+Coconut,425.0,False,274.5
+Apple,248.5,False,274.05
+Brown Rice,110.0,False,150.75
+Rice Flour,50.0,False,43.2
+Peanut Oil,96.0,False,352.8
+Anchovies,440.0,False,720.0
+Powdered Sugar,157.5,False,90.0
+Palm Oil,124.2,False,102.06
+Tuna,1584.0,False,453.6
+Robusta Coffee,740.0,False,333.0
+Bell Pepper,441.0,False,348.3
+Egg (Chicken),4.4,False,15.84
+Apricot,275.0,False,103.5
+Ricotta Cheese,585.6,False,516.06
+Feta Cheese,637.0,False,201.6
+Digestive Biscuit,160.0,False,100.8
+Salmon,780.0,False,580.5
+Lettuce,44.0,False,111.6
+Black Rice,622.3,False,400.05
+Whole Wheat Flour,162.25,False,79.2
+Chocolate Biscuit,495.0,False,292.5
+Black Tea,95.4,False,310.05
+Watermelon,174.0,False,191.7
+Black Rice,189.0,False,345.87
+Papaya,436.5,False,214.65
+Egg (Goose),122.5,False,171.99
+Cheddar Cheese,630.0,False,510.3
+Blueberries,400.0,False,684.0
+Corn Oil,187.5,False,225.0
+Strawberries,156.0,False,507.6
+Arabica Coffee,260.0,False,1206.0
+Plum,44.0,False,356.4
+Salmon,1470.0,False,283.5
+Broccoli,140.0,False,324.0
+Mackerel,337.5,False,236.25
+Kale,188.0,False,93.6
+Sesame Oil,578.5,False,228.15
+Black Coffee,495.0,False,1296.0
+Apricot,450.0,False,342.0
+Jasmine Rice,209.0,False,269.32
+Wild Rice,399.75,False,816.08
+Potato,86.4,False,103.68
+Egg (Goose),172.8,False,77.76
+Black Coffee,600.0,False,445.5
+Whole Wheat Bread,126.0,False,211.05
+Vegetable Oil,102.0,False,43.2
+Black Coffee,1296.3,False,1206.9
+Pear,355.5,False,133.65
+Tilapia,95.2,False,391.68
+Orange,243.0,False,232.2
+Lime,150.0,False,57.6
+Gouda Cheese,336.0,False,371.7
+Onion,100.0,False,72.0
+Haddock,99.0,False,696.6
+Almond Flour,703.0,False,205.2
+Tomato,27.5,False,209.25
+Heavy Cream,340.0,False,342.0
+Cauliflower,142.5,False,195.75
+Lime,142.5,False,107.73
+Egg (Turkey),148.05,False,164.97
+White Tea,883.75,False,1204.42
+Cabbage,24.0,False,49.5
+Jasmine Rice,251.75,False,427.5
+Butter Biscuit,444.0,False,275.4
+Brown Rice,197.5,False,96.75
+Bread Flour,81.0,False,55.35
+Palm Oil,79.2,False,74.52
+Almond Flour,731.5,False,230.85
+Apricot,210.0,False,387.0
+Sweet Potato,88.0,False,160.2
+Sour Cream,324.0,False,244.8
+Black Rice,575.0,False,213.75
+Salmon,1170.0,False,634.5
+Heavy Cream,357.0,False,245.7
+Pomegranate,390.0,False,432.0
+Olive Oil,216.0,False,399.6
+Potato,31.2,False,90.72
+Sunflower Oil,97.5,False,189.0
+White Sugar,78.0,False,131.4
+Cabbage,83.0,False,31.5
+Cucumber,50.4,False,53.46
+Tuna,1530.0,False,1490.4
+Lime,152.0,False,138.6
+Tomato,250.0,False,189.0
+Pomegranate,102.0,False,199.8
+Anchovies,510.0,False,720.0
+Grapes,297.0,False,400.95
+Sourdough Bread,376.0,False,169.2
+Asparagus,170.0,False,184.5
+Herbal Tea,810.0,False,918.0
+All-Purpose Flour,87.5,False,137.02
+Almond Flour,807.5,False,222.3
+Rice Flour,48.0,False,176.4
+Halibut,1640.0,False,1188.0
+Apple,59.5,False,113.4
+Canola Oil,57.5,False,149.04
+Tilapia,392.0,False,409.5
+Evaporated Milk,144.0,False,93.6
+Mushrooms,409.5,False,306.18
+Grapes,165.0,False,311.85
+Onion,78.0,False,45.0
+Pineapple,49.0,False,233.1
+Carrot,111.0,False,122.85
+Parmesan Cheese,749.7,False,396.27
+Peach,188.0,False,129.6
+Egg (Turkey),105.0,False,137.25
+Tomato,80.0,False,180.0
+Lettuce,176.0,False,45.0
+Yogurt,140.0,False,64.58
+Orange,108.0,False,67.5
+Bread Flour,16.5,False,103.95
+Peach,160.0,False,331.2
+Bread Flour,94.5,False,74.25
+Raw Sugar,135.0,False,108.0
+Multigrain Bread,152.75,False,87.75
+Digestive Biscuit,116.0,False,288.0
+Peach,376.0,False,86.4
+Mango,156.8,False,370.44
+Plum,160.0,False,162.0
+Egg (Goose),125.0,False,171.0
+Cod,576.0,False,388.8
+Pomegranate,132.0,False,221.4
+Chocolate Biscuit,115.0,False,436.5
+Halibut,700.0,False,1332.0
+Cucumber,21.0,False,70.88
+Cheddar Cheese,774.0,False,810.0
+Mackerel,682.5,False,607.5
+Evaporated Milk,46.0,False,122.4
+Onion,196.0,False,82.8
+Cherry,232.0,False,532.8
+Coconut,160.0,False,171.0
+Pear,378.0,False,259.2
+Yogurt,150.5,False,130.72
+Black Rice,68.2,False,273.42
+Whole Wheat Flour,165.0,False,126.22
+Whole Wheat Bread,203.0,False,308.7
+Ricotta Cheese,384.0,False,297.0
+Canola Oil,43.7,False,68.31
+Cherry,344.0,False,194.4
+Peanut Oil,152.0,False,147.6
+Buttermilk,175.0,False,105.75
+Asparagus,90.0,False,261.0
+Brown Rice,115.0,False,108.0
+Arabica Coffee,1599.0,False,1143.9
+Canola Oil,121.9,False,171.81
+Haddock,603.0,False,615.6
+Egg (Chicken),7.2,False,12.24
+Whole Wheat Flour,107.25,False,227.7
+Sweet Potato,190.0,False,109.8
+Almond Flour,114.0,False,478.8
+Wild Rice,980.0,False,279.0
+Jasmine Rice,237.5,False,222.3
+Zucchini,245.0,False,108.0
+Corn Oil,70.0,False,72.0
+Cucumber,120.6,False,131.22
+Onion,40.0,False,41.4
+Trout,777.2,False,689.04
+Egg (Quail),75.2,False,72.0
+Black Tea,225.0,False,405.0
+Anchovies,860.0,False,333.0
+Wild Rice,702.0,False,447.52
+Green Beans,65.1,False,103.95
+Butter Biscuit,72.0,False,388.8
+Gouda Cheese,497.0,False,485.1
+Anchovies,640.0,False,441.0
+Coconut Oil,445.0,False,409.5
+Sesame Oil,325.0,False,310.05
+Mango,265.0,False,184.5
+Haddock,171.0,False,234.9
+Broccoli,356.0,False,334.8
+Cod,768.0,False,698.4
+Parmesan Cheese,624.0,False,334.8
+Sesame Oil,630.5,False,298.35
+Halibut,1760.0,False,1656.0
+Jasmine Rice,156.75,False,397.58
+Jasmine Rice,465.5,False,218.02
+Peach,180.0,False,302.4
+White Rice,144.0,False,74.52
+Halibut,1360.0,False,1350.0
+Apricot,450.0,False,153.0
+Trout,1068.0,False,1036.8
+Cucumber,68.4,False,144.18
+Green Beans,207.9,False,86.94
+Powdered Sugar,158.4,False,64.8
+Pomegranate,396.0,False,459.0
+Bread Flour,96.0,False,44.55
+Black Rice,108.0,False,459.0
+Whole Wheat Flour,236.5,False,128.7
+Black Tea,164.5,False,164.97
+Green Beans,52.0,False,64.8
+Parmesan Cheese,960.0,False,1080.0
+Zucchini,157.5,False,78.75
+Vanilla Biscuit,489.5,False,410.85
+Sweet Potato,160.0,False,176.4
+Vegetable Oil,82.0,False,99.0
+Chocolate Biscuit,265.0,False,369.0
+Haddock,549.0,False,275.4
+Egg (Duck),70.0,False,85.5
+Mango,365.0,False,225.0
+Kale,240.0,False,75.6
+Pomegranate,528.0,False,388.8
+Cauliflower,237.5,False,110.25
+Powdered Sugar,117.5,False,49.5
+Mozzarella Cheese,168.0,False,365.4
+Anchovies,930.0,False,729.0
+Sunflower Oil,200.0,False,220.5
+Apple,269.5,False,198.45
+Green Beans,84.0,False,70.2
+Egg (Turkey),230.0,False,175.5
+Mushrooms,506.25,False,517.5
+Jasmine Rice,218.5,False,153.9
+Brown Rice,110.0,False,99.0
+Multigrain Bread,133.0,False,141.75
+Evaporated Milk,128.0,False,133.2
+Long Grain Rice,56.55,False,26.1
+White Bread,105.0,False,150.75
+White Sugar,58.0,False,104.4
+Cucumber,108.0,False,119.88
+Parmesan Cheese,780.0,False,745.2
+Bell Pepper,400.5,False,153.9
+Corn Oil,125.0,False,63.0
+Bell Pepper,423.0,False,178.2
+Canola Oil,223.1,False,169.74
+Digestive Biscuit,288.0,False,306.0
+Cream,155.0,False,92.25
+Apple,154.0,False,129.15
+Peanut Oil,84.0,False,284.4
+Coconut Sugar,455.0,False,216.0
+Tuna,1566.0,False,356.4
+Spinach,153.72,False,70.31
+Carrot,91.5,False,35.1
+Sweet Potato,98.0,False,174.6
+Lemon,217.5,False,137.25
+Multigrain Bread,302.25,False,163.8
+Basmati Rice,244.75,False,148.18
+Sour Cream,116.0,False,82.8
+Egg (Chicken),12.6,False,12.06
+Potato,50.4,False,46.44
+Onion,148.0,False,174.6
+Short Grain Rice,66.0,False,183.6
+Egg (Chicken),16.6,False,16.92
+Wild Rice,320.0,False,621.0
+Apple,294.0,False,207.9
+Plum,88.0,False,252.0
+Peas,300.0,False,232.2
+Cheddar Cheese,324.0,False,243.0
+Halibut,280.0,False,1278.0
+White Sugar,76.0,False,93.6
+Eggplant,291.0,False,59.4
+Green Tea,512.0,False,180.0
+Lime,26.6,False,171.0
+Avocado Oil,240.0,False,891.0
+Tilapia,700.0,False,535.5
+Jasmine Rice,294.5,False,132.52
+Basmati Rice,319.5,False,243.0
+Parmesan Cheese,456.0,False,378.0
+Powdered Sugar,211.2,False,205.2
+Sourdough Bread,180.0,False,218.7
+Spinach,220.0,False,130.5
+Cheddar Cheese,540.0,False,769.5
+Cabbage,84.6,False,79.38
+Avocado Oil,300.0,False,198.0
+Papaya,85.5,False,368.55
